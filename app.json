@@ -1,0 +1,12 @@
+{
+	"reponame":"sample-responsivebutton",
+	"caption":"Responsive Buttons",
+	"tooltip":"Responsive Button Sample",
+	"description":"A basic example of a responsive HTML5 button.",
+	"articleurl":"",
+	"categories":["Basic","UI"],
+	"visible": "true",
+	"apppreview":"true",
+	"appname":"andrew.hyde.smith.responsivebutton",
+	"relname":"4.0.0"
+}
