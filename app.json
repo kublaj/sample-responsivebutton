@@ -7,7 +7,7 @@
 	"keywords":["intel.xdk API"],
 	"highlights":["intel.xdk API"],
 	"visible": "true",
-	"apppreview":"true",
+	"apppreview":"false",
 	"appname":"demo.responsivebutton",
 	"relname":"4.0.0"
 }
