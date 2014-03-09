@@ -1,4 +1,5 @@
-
+/*jslint browser:true, devel:true, white:true, vars:true, eqeq:true */
+/*global $:false, intel:false*/
 /*
  * This function runs once the page is loaded, but the JavaScript bridge library is not yet active.
  */
@@ -16,7 +17,7 @@ var init = function () {
 window.addEventListener("load", init, false);  
 
  // Prevent Default Scrolling 
-preventDefaultScroll = function(event) 
+var preventDefaultScroll = function(event) 
 {
     event.preventDefault();
     window.scroll(0,0);
