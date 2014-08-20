@@ -1,0 +1,13 @@
+{
+	"reponame":"sample-responsivebutton",
+	"title":"Buttons",
+	"tooltip":"Responsive Button Sample",
+	"description":"A basic example of a responsive HTML5 button.",
+	"articleurl":"http://software.intel.com/en-us/articles/intel-xdk-responsive-button-sample",
+	"keywords":["intel.xdk API"],
+	"highlights":["intel.xdk API"],
+	"visible": "true",
+	"apppreview":"false",
+	"appname":"demo.responsivebutton",
+	"relname":"4.0.0"
+}
