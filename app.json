@@ -6,7 +6,7 @@
 	"articleUrl":"http://software.intel.com/en-us/articles/intel-xdk-responsive-button-sample",
 	"keywords":["intel.xdk API"],
 	"highlights":["intel.xdk API"],
-	"visible": "true",
+	"visible": "false",
 	"apppreview":"false",
 	"appname":"demo.responsivebutton",
 	"relname":"4.0.0",
